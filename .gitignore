@@ -27,3 +27,5 @@ go.work.sum
 
 # Build
 Searchex
+
+.DS_Store
